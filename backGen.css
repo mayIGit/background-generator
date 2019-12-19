@@ -1,0 +1,17 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+    text-align:center;
+}
+
+input{
+   height:200px;
+   width:200px;
+   cursor:pointer;
+   
+}
+
+h1, h3{
+    color:dimgray;
+    letter-spacing:5px;
+    padding:10px 0px;
+}
